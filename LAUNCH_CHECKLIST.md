@@ -9,6 +9,11 @@
 - [x] Project icon exists
 - [x] Workflow Mermaid files exist
 - [x] Workflow SVG files exist
+- [x] Feature matrix exists
+- [x] Architecture overview exists
+- [x] Product surface map exists
+- [x] Demo script exists
+- [x] GitHub publishing handoff exists
 - [x] WordPress page draft exists
 - [x] Image asset audit exists
 - [x] All Rights Reserved license exists

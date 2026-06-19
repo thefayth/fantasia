@@ -1,6 +1,6 @@
 {
   "schema": "fantasia.github-public-export.v1",
-  "generated_at": "2026-06-19T03:58:53.019Z",
+  "generated_at": "2026-06-19T04:16:50.129Z",
   "project": {
     "name": "Fantasia",
     "baseSlug": "fantasia",
@@ -33,13 +33,13 @@
     },
     {
       "path": "assets/diagrams/workflow-overview.mmd",
-      "bytes": 470,
-      "sha256": "A4FD4721F613D8F5782DDAFABA38B1F47A27111B40D44A0A5998E8E0B65C7A2B"
+      "bytes": 682,
+      "sha256": "1729A4586A3B9B291DA33B3E993C03EE7A1FDAC7B25D68CD0268933188A85359"
     },
     {
       "path": "assets/diagrams/workflow-overview.svg",
       "bytes": 3116,
-      "sha256": "2053E27E747F57F38D698D8498770865901CE56695236138BC99A79EABDAC109"
+      "sha256": "E351D3070C435ADA5DAD2C50A8F2080D9CCB44167DAD9E44439BD853EC84B42C"
     },
     {
       "path": "assets/gallery/fantasia-launch-slide-01.png",
@@ -97,6 +97,11 @@
       "sha256": "23485185A57CF297E70DC49B13415015FBEEF2C61D4379C44441D8F9DC4B457D"
     },
     {
+      "path": "docs/ARCHITECTURE_OVERVIEW.md",
+      "bytes": 1896,
+      "sha256": "C88ECE64D73F1EBAF5DDA483C8ED809411962E5D025C08985E2D6E056169A1C9"
+    },
+    {
       "path": "docs/BRAND_STYLE_NOTES.md",
       "bytes": 492,
       "sha256": "12B3F004587F2DEAE951A9B214CE7CB699EE30C65E94A26B9458E209C38DD5DD"
@@ -112,9 +117,24 @@
       "sha256": "0D0D9C68130A486ACFA79878B6F3EED739093AC852BF1A1338BA6F32436F8070"
     },
     {
+      "path": "docs/DEMO_SCRIPT.md",
+      "bytes": 1631,
+      "sha256": "0E03EF712B22D8318490A89540E6E05CCE2C9F3ED7127D84812EEA7EAFE7E4AF"
+    },
+    {
+      "path": "docs/FANTASIA_FEATURE_MATRIX.md",
+      "bytes": 2345,
+      "sha256": "1773F406A001BD1BB3139483E7FB87FAC1230CDDE99BDF05E2B98D998BB6C063"
+    },
+    {
       "path": "docs/FAQ.md",
       "bytes": 771,
       "sha256": "B98265031B17349CEB18BE0E60143AC8A4D79F0C5EB913ABCEC3904D04D98C67"
+    },
+    {
+      "path": "docs/GITHUB_PUBLISHING_HANDOFF.md",
+      "bytes": 1340,
+      "sha256": "586299F41E8FB4C6FDED917CD86E36BEA4A4B5339717CF93D111160C77477109"
     },
     {
       "path": "docs/IMAGE_ASSET_AUDIT.md",
@@ -123,13 +143,18 @@
     },
     {
       "path": "docs/LAUNCH_CHECKLIST.md",
-      "bytes": 695,
-      "sha256": "187C3E086178E95A94C182ADBB8EAAE33305FD2865D02547C1283D34D696C55D"
+      "bytes": 855,
+      "sha256": "C26D49F54A9369A7BDA554B58608F89392F43469CC124B217A363B916E12DBA7"
     },
     {
       "path": "docs/PRIVACY_REVIEW.md",
       "bytes": 1290,
       "sha256": "59113301D1BB49F758FF81CAC36017DC64928A2171ED7B5E4995FB336CA8907C"
+    },
+    {
+      "path": "docs/PRODUCT_SURFACE_MAP.md",
+      "bytes": 1333,
+      "sha256": "6F2B9F043E5DFC923D0CD3452A3292D9DF5BF33AFCA0C7E4A1BF823F1BBF9AE0"
     },
     {
       "path": "docs/PROJECT_BRIEF.md",
@@ -148,28 +173,33 @@
     },
     {
       "path": "docs/STATUS.md",
-      "bytes": 1234,
-      "sha256": "A80B1A7A5DF4E6006D0916C2199718B6BFE01036166E216C5961FB9FF2C52B22"
+      "bytes": 1372,
+      "sha256": "DDE2E26B5B0C525699E8CA24CA59EFA1537EB04E0CF8EB3307D51A90D3417F70"
     },
     {
       "path": "docs/WORDPRESS_PAGE_DRAFT.md",
-      "bytes": 1938,
-      "sha256": "2237FBCD49A1CD8595272ACE4B6F946CDC5EA132DDED7B0B9E41288F5B8AC204"
+      "bytes": 2139,
+      "sha256": "4B2884074537B48FC735E4BC0C125097FB96C0EEB5AAB67C82C0A3DC9762EE83"
     },
     {
       "path": "docs/WORKFLOW_DIAGRAMS.md",
-      "bytes": 596,
-      "sha256": "9F4E4F98A724ED4A7FBCA36EE782BDD067D68DE5874F3670C32D1BFD6DE55639"
+      "bytes": 731,
+      "sha256": "4192719F089A4DFB37C160BE426D7A4DAC192AE1E0F26486CF3E72FFC06EA6D8"
     },
     {
       "path": "LAUNCH_CHECKLIST.md",
-      "bytes": 695,
-      "sha256": "187C3E086178E95A94C182ADBB8EAAE33305FD2865D02547C1283D34D696C55D"
+      "bytes": 855,
+      "sha256": "C26D49F54A9369A7BDA554B58608F89392F43469CC124B217A363B916E12DBA7"
     },
     {
       "path": "LICENSE.md",
       "bytes": 525,
       "sha256": "E41DF93A73BFC81CF7A139A7F5B44B291D1000F36FD0D2318A754EA7C62CF816"
+    },
+    {
+      "path": "manifest.json",
+      "bytes": 7282,
+      "sha256": "F05761B5EDF779748AC2E7634A1C2834470DF61D8780E1133B34B598CD960D22"
     },
     {
       "path": "NOTICE.md",
@@ -178,13 +208,18 @@
     },
     {
       "path": "README.md",
-      "bytes": 4146,
-      "sha256": "8F07EA00D5012F446C067E8C62FC387B7A2904E7213285E3F2DCAEF7368391DC"
+      "bytes": 5590,
+      "sha256": "0172452CEA39F23613C76084340F6D263423A370CB905E704DD63FD109337F35"
+    },
+    {
+      "path": "README_LAUNCH.md",
+      "bytes": 927,
+      "sha256": "2C26552C5BF68D2E3F4C09C328938C45CF7B90FA1A79603A266F30ADA6693630"
     },
     {
       "path": "RECEIPT.md",
-      "bytes": 2333,
-      "sha256": "EB7991DACDD442F69BD2E33A3254597E93F48E88B5D65489E2A8118DC642DE22"
+      "bytes": 2383,
+      "sha256": "305D796276D57A211995A67C577772313C936F330063B0969E96234197CF2884"
     },
     {
       "path": "SECURITY.md",
@@ -193,8 +228,8 @@
     },
     {
       "path": "STATUS.md",
-      "bytes": 1234,
-      "sha256": "A80B1A7A5DF4E6006D0916C2199718B6BFE01036166E216C5961FB9FF2C52B22"
+      "bytes": 1372,
+      "sha256": "DDE2E26B5B0C525699E8CA24CA59EFA1537EB04E0CF8EB3307D51A90D3417F70"
     },
     {
       "path": "TRADEMARKS.md",
@@ -213,8 +248,8 @@
     },
     {
       "path": "wordpress/page.md",
-      "bytes": 1938,
-      "sha256": "2237FBCD49A1CD8595272ACE4B6F946CDC5EA132DDED7B0B9E41288F5B8AC204"
+      "bytes": 2139,
+      "sha256": "4B2884074537B48FC735E4BC0C125097FB96C0EEB5AAB67C82C0A3DC9762EE83"
     }
   ],
   "excluded": [
@@ -224,6 +259,9 @@
     "raw coursework",
     "source code",
     "credentials and tokens",
-    "private project workspaces"
+    "private receipts",
+    "local package binaries",
+    "private project workspaces",
+    "unpublished sensitive material"
   ]
 }

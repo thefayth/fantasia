@@ -1,7 +1,7 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="640" viewBox="0 0 1400 640" role="img" aria-labelledby="title desc">
   <title id="title">Fantasia workflow overview</title>
-  <desc id="desc">Workflow from phone or desktop intake through Fantasia recommendations, review, local workers, receipts, and public project surface.</desc>
+  <desc id="desc">Workflow from phone or desktop intake through Fantasia recommendations, review, local workers, receipts, GitHub, and FaithCheltenham.com.</desc>
   <rect width="1400" height="640" fill="#ffffff"/>
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
@@ -23,7 +23,7 @@
     <rect x="950" y="230" rx="18" width="170" height="96" fill="#F5F3FF" stroke="#5B21B6" stroke-width="3"/>
     <text x="985" y="275" fill="#351066">GitTools +</text><text x="978" y="301" fill="#351066">Workers</text>
     <rect x="1170" y="230" rx="18" width="170" height="96" fill="#F7FEE7" stroke="#84CC16" stroke-width="3"/>
-    <text x="1206" y="275" fill="#365314">Receipts +</text><text x="1208" y="301" fill="#365314">Public Surface</text>
+    <text x="1205" y="275" fill="#365314">GitHub +</text><text x="1192" y="301" fill="#365314">WordPress</text>
   </g>
   <g stroke="url(#g)" stroke-width="5" fill="none" stroke-linecap="round">
     <path d="M240 278 H290"/><path d="M460 278 H510"/><path d="M680 278 H730"/><path d="M900 278 H950"/><path d="M1120 278 H1170"/>
@@ -33,5 +33,5 @@
   </g>
   <rect x="70" y="420" width="1270" height="112" rx="20" fill="#FAFAFA" stroke="#E5E7EB"/>
   <text x="104" y="468" fill="#351066" font-family="Arial, sans-serif" font-size="24" font-weight="700">Public surface, private engine.</text>
-  <text x="104" y="505" fill="#374151" font-family="Arial, sans-serif" font-size="20">GitHub shows purpose, status, visuals, policies, and workflows. Source, queues, credentials, private data, and unpublished systems stay out.</text>
+  <text x="104" y="505" fill="#374151" font-family="Arial, sans-serif" font-size="20">GitHub and FaithCheltenham.com show purpose, status, visuals, policies, and workflows. Source, queues, credentials, and private data stay out.</text>
 </svg>

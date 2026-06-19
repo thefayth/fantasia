@@ -64,6 +64,19 @@ Fantasia is for builders, operators, founders, creative technologists, and small
 
 Fantasia is a functional local v1 and protected public project surface. The current local product includes a desktop app, MCP bridge, Operator Inbox, Dev Queue, Tool Doctor, GitTools visibility, OpenClaw loopback posture, local Qwen/Ollama route, and release-readiness checks. The public GitHub repository is intentionally docs-first.
 
+## Fantasia At A Glance
+
+| Surface | Public representation | Private boundary |
+| --- | --- | --- |
+| Desktop app | Windows-first conductor cockpit, Home, Settings, GitTools, Tool Doctor, inboxes | Electron source, private state, telemetry, leases |
+| Phone lane | OpenClaw private/loopback handoff model | live phone credentials, private gateway state, message logs |
+| Operator mode | Codex-assisted and Codex-optional operating model | raw queues, private worker outputs, local receipts |
+| Dev mode | Dev Queue, GitTools, local verification, rollback posture | project source, branches, patches, private repos |
+| AI Desk | Review packet flow and non-mutating research/docs/QA lane | local queue content and unpublished work |
+| Management kernel | MBA-informed conduct, prioritization, WIP, traffic, time estimates | raw Pepperdine coursework and private student material |
+| Release layer | public-safe status, manifest, checklist, visual identity | signing material, binaries, private release receipts |
+| Adult work boundary | consensual adult creative/business tooling is in scope | minors, age ambiguity, nonconsent, doxxing, credentials, public posting stay blocked |
+
 ## Visual Gallery
 
 | Asset | Purpose |
@@ -79,6 +92,11 @@ Fantasia is a functional local v1 and protected public project surface. The curr
 - [Roadmap](docs/ROADMAP.md)
 - [Public / Private Boundary](docs/PUBLIC_PRIVATE_BOUNDARY.md)
 - [Workflow Diagrams](docs/WORKFLOW_DIAGRAMS.md)
+- [Feature Matrix](docs/FANTASIA_FEATURE_MATRIX.md)
+- [Architecture Overview](docs/ARCHITECTURE_OVERVIEW.md)
+- [Product Surface Map](docs/PRODUCT_SURFACE_MAP.md)
+- [Demo Script](docs/DEMO_SCRIPT.md)
+- [GitHub Publishing Handoff](docs/GITHUB_PUBLISHING_HANDOFF.md)
 - [WordPress Page Draft](wordpress/page.md)
 
 Public web destination draft: [FaithCheltenham.com/projects/fantasia](https://faithcheltenham.com/projects/fantasia/)

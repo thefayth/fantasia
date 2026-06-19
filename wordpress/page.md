@@ -23,9 +23,14 @@ Use the workflow diagram from assets/diagrams/workflow-overview.svg.
 
 - Local-first desktop conductor
 - Operator Inbox and Dev Queue
+- Codex-assisted and standalone operator modes
+- Local stdio MCP bridge
 - OpenClaw phone lane
 - GitTools and Tool Doctor visibility
 - AI Desk review packets
+- Auto-Pickup and Operator Loop posture
+- MBA-informed management kernel
+- Consent-aware adult creator/business tooling boundary
 - Public surface, private engine
 - All-rights-reserved ownership posture
 

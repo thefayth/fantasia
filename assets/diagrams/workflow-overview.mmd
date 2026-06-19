@@ -7,4 +7,8 @@ flowchart LR
   Recommend --> Review["Operator review and authority lease"]
   Review --> Workers["Local workers and GitTools"]
   Workers --> Receipts["Audit receipts and rollback notes"]
-  Receipts --> Public["Public project surface"]
+  Receipts --> Private["Private local engine"]
+  Receipts --> Github["GitHub public surface"]
+  Receipts --> Wordpress["FaithCheltenham.com project page"]
+  Private -. public-safe summaries only .-> Github
+  Private -. public-safe summaries only .-> Wordpress

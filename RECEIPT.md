@@ -6,7 +6,7 @@
 - Chosen repository slug: fantasia
 - Version status: existing public repository refresh; no v2 created because the existing Fantasia repository is the target
 - Repository URL: https://github.com/thefayth/fantasia
-- Export generated at: 2026-06-19T03:58:53.019Z
+- Export generated at: 2026-06-19T04:16:50.129Z
 
 ## Files Created
 
@@ -19,6 +19,7 @@
 - STATUS.md
 - LAUNCH_CHECKLIST.md
 - RECEIPT.md
+- README_LAUNCH.md
 - docs/*
 - assets/*
 - wordpress/*
@@ -63,4 +64,4 @@ READY AFTER FAITH REVIEW.
 
 ## GitHub Status
 
-GitHub push was not performed by this generator. In the current Codex session, gh auth reported an invalid token and API access failed through the local proxy. After auth is repaired, push from _github_public_export only.
+GitHub push was not performed by this generator. In the current Codex session, gh auth reported an invalid token and API access failed through the local proxy. After auth is repaired, push the normal forward commit from _github_public_publish/fantasia.

@@ -9,7 +9,7 @@
 - Public surface status: refreshed locally in _github_public_export
 - Private engine status: excluded from this export
 - GitHub push status: blocked in this session because GitHub CLI auth is invalid and API access is unavailable
-- Last local export update: 2026-06-19T03:58:53.019Z
+- Last local export update: 2026-06-19T04:16:50.129Z
 
 ## Current Product Representation
 
@@ -18,10 +18,14 @@ Represented in this public package:
 - local-first AI operations conductor
 - desktop app concept and public status
 - Codex-assisted and Codex-optional operator modes
+- local stdio MCP bridge
 - OpenClaw phone-lane model
 - Operator Inbox and Dev Queue concepts
 - GitTools and Tool Doctor readiness layer
 - AI Desk packet/review workflow
+- Auto-Pickup and Operator Loop posture
+- release-readiness and signing posture
+- MBA-informed management kernel
 - public/private boundary
 - adult-content business tooling boundary for consensual adult work
 - all-rights-reserved ownership posture
