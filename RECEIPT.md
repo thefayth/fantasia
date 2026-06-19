@@ -18,7 +18,7 @@ Fantasia was prepared and pushed as a professional public-facing GitHub reposito
 
 Status: `pushed-to-public-docs-repo`
 
-Latest verified commit from this pass: `b8bea82712e0df85b47a477ca654ea43689cfc63`
+Live file verification was completed through the GitHub connector after publishing. The final receipt commit is visible in the GitHub repository history.
 
 Verified live via GitHub connector:
 
