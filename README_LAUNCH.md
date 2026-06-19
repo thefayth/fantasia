@@ -13,7 +13,11 @@ Creator/founder: **Faith Cheltenham**
 Use the GitHub link index for repo-native links that render cleanly:
 
 - [Fantasia GitHub Links](docs/GITHUB_LINKS.md)
+- [Project Brief](docs/PROJECT_BRIEF.md)
+- [Product Screenshots](docs/PRODUCT_SCREENSHOTS.md)
+- [Workflow Maps](docs/WORKFLOW_MAPS.md)
 - [FaithCheltenham Demo Folder](website-demo/faithcheltenham-fantasia/)
+- [WordPress Draft](wordpress/page.md)
 - [Investor Pitch Deck Markdown](docs/INVESTOR_PITCH_DECK.md)
 - [Fantasia Brand Board Markdown](docs/FANTASIA_BRAND_BOARD.md)
 
@@ -81,7 +85,7 @@ Fantasia is local-first by default:
 
 Fantasia core is proprietary commercial software owned/licensed through XXYYZZ Society LLC. This repo is a docs-first product surface, not an open-source release of the desktop app, FVE adapters, COAI publishing workflow, or private automation system.
 
-Commercial use requires written permission or a signed license from XXYYZZ Society LLC.
+Commercial use requires written permission or a signed license from XXYYZZ Society LLC. No public license is granted. No training use, redistribution, commercial reuse, hosting, sublicensing, reverse engineering, or implied permission is granted.
 
 ## Current Status
 
@@ -97,11 +101,28 @@ Current FVE quickstart truth:
 ## Docs
 
 - [License Notice](LICENSE.md)
+- [Notice](NOTICE.md)
+- [Security Policy](SECURITY.md)
+- [Trademarks](TRADEMARKS.md)
+- [Contributing](CONTRIBUTING.md)
+- [Receipt](RECEIPT.md)
+- [Project Brief](docs/PROJECT_BRIEF.md)
+- [Status](docs/STATUS.md)
+- [Roadmap](docs/ROADMAP.md)
+- [FAQ](docs/FAQ.md)
 - [Commercial Use Policy](docs/COMMERCIAL_USE_POLICY.md)
 - [Public / Private Boundary](docs/PUBLIC_PRIVATE_BOUNDARY.md)
 - [GitHub Link Index](docs/GITHUB_LINKS.md)
 - [How to Use Fantasia](docs/HOW_TO_USE_FANTASIA.md)
+- [Product Screenshots](docs/PRODUCT_SCREENSHOTS.md)
 - [Investor Pitch Deck](docs/INVESTOR_PITCH_DECK.md)
+- [Workflow Maps](docs/WORKFLOW_MAPS.md)
+- [Workflow Diagrams](docs/WORKFLOW_DIAGRAMS.md)
+- [Image Brief](docs/IMAGE_BRIEF.md)
+- [Brand Style Notes](docs/BRAND_STYLE_NOTES.md)
+- [WordPress Page Draft](docs/WORDPRESS_PAGE_DRAFT.md)
+- [Privacy Review](docs/PRIVACY_REVIEW.md)
+- [Launch Checklist](docs/LAUNCH_CHECKLIST.md)
 - [Fantasia Brand Kit](docs/FANTASIA_BRAND_KIT.md)
 - [Fantasia Brand Board](docs/FANTASIA_BRAND_BOARD.md)
 - [Canva Design Brief](docs/CANVA_DESIGN_BRIEF.md)
@@ -109,6 +130,7 @@ Current FVE quickstart truth:
 - [GitHub Launch Plan](docs/GITHUB_LAUNCH_PLAN.md)
 - [GitHub / Drive Links Manifest](docs/github-links-manifest.json)
 - [FaithCheltenham WordPress Demo Folder](website-demo/faithcheltenham-fantasia/)
+- [WordPress Draft Folder](wordpress/page.md)
 
 ## Investor Story
 
