@@ -12,6 +12,17 @@
   },
   "driveFolderUrl": "https://drive.google.com/drive/folders/1U1Y4DqxW28w3nV1hJwACnqExh8ALKL_Z",
   "driveSharingStatus": "uploaded-sharing-blocked-by-google-domain-policy",
+  "githubOpenLinks": {
+    "repositoryHome": "https://github.com/thefayth/fantasia",
+    "launchReadme": "https://github.com/thefayth/fantasia/blob/main/README_LAUNCH.md",
+    "licenseNotice": "https://github.com/thefayth/fantasia/blob/main/LICENSE.md",
+    "commercialUsePolicy": "https://github.com/thefayth/fantasia/blob/main/docs/COMMERCIAL_USE_POLICY.md",
+    "publicPrivateBoundary": "https://github.com/thefayth/fantasia/blob/main/docs/PUBLIC_PRIVATE_BOUNDARY.md",
+    "githubLinks": "https://github.com/thefayth/fantasia/blob/main/docs/GITHUB_LINKS.md",
+    "investorPitchDeckMarkdown": "https://github.com/thefayth/fantasia/blob/main/docs/INVESTOR_PITCH_DECK.md",
+    "brandBoardMarkdown": "https://github.com/thefayth/fantasia/blob/main/docs/FANTASIA_BRAND_BOARD.md",
+    "websiteDemoFolder": "https://github.com/thefayth/fantasia/tree/main/website-demo/faithcheltenham-fantasia"
+  },
   "driveFiles": [
     {
       "title": "Fantasia-Investor-Pack.zip",
@@ -50,6 +61,8 @@
   ],
   "localFilesForGitHub": [
     "docs/fantasia/README_PUBLIC_DRAFT.md",
+    "docs/fantasia/GITHUB_LINKS.md",
+    "docs/fantasia/FANTASIA_BRAND_BOARD.md",
     "docs/fantasia/LICENSE.md",
     "docs/fantasia/COMMERCIAL_USE_POLICY.md",
     "docs/fantasia/PUBLIC_PRIVATE_BOUNDARY.md",
@@ -66,6 +79,7 @@
     "GitHub repo thefayth/fantasia exists and should remain docs-first until Faith approves a separate source release.",
     "Commercial licensing should route through XXYYZZ Society LLC while preserving Faith Cheltenham as creator/founder.",
     "Fantasia core, FVE production adapters, COAI publishing internals, credentials, code-signing material, and private receipts remain private/proprietary.",
-    "Google Drive upload succeeded. Connector sharing failed because the account does not expose a valid company domain for anyone-at-company sharing."
+    "Google Drive upload succeeded. Connector sharing failed because the account does not expose a valid company domain for anyone-at-company sharing.",
+    "GitHub HTML files are linked as source; use Markdown pages and folder README links for GitHub-native opening."
   ]
 }
