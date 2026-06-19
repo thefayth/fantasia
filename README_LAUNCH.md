@@ -4,6 +4,10 @@
 
 Fantasia is a desktop control room for builders who want AI tools to operate with receipts, rollback, and clear authority boundaries. It coordinates local services, operator queues, Codex/OpenClaw handoffs, FVE visual-engine workflows, and COAI / WordPress publish-readiness checks without turning every action into an unsafe live write.
 
+Commercial entity: **XXYYZZ Society LLC**
+
+Creator/founder: **Faith Cheltenham**
+
 ## Investor Share Pack
 
 Google Drive folder:
@@ -62,6 +66,12 @@ Fantasia is local-first by default:
 - no hidden cloud telemetry
 - no production writes without a specific guarded adapter
 
+## Commercial Boundary
+
+Fantasia core is proprietary commercial software owned/licensed through XXYYZZ Society LLC. This repo is a docs-first product surface, not an open-source release of the desktop app, FVE adapters, COAI publishing workflow, or private automation system.
+
+Commercial use requires written permission or a signed license from XXYYZZ Society LLC.
+
 ## Current Status
 
 Fantasia is in local preview. The current docs and deck describe the working product direction and investor story. Public release should happen after a final secret scan, private-path scan, and release review.
@@ -75,6 +85,9 @@ Current FVE quickstart truth:
 
 ## Docs
 
+- [License Notice](LICENSE.md)
+- [Commercial Use Policy](docs/COMMERCIAL_USE_POLICY.md)
+- [Public / Private Boundary](docs/PUBLIC_PRIVATE_BOUNDARY.md)
 - [How to Use Fantasia](docs/HOW_TO_USE_FANTASIA.md)
 - [Investor Pitch Deck](docs/INVESTOR_PITCH_DECK.md)
 - [Fantasia Brand Kit](docs/FANTASIA_BRAND_KIT.md)
