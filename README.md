@@ -41,9 +41,9 @@ Fantasia is local-first by default:
 
 ## Commercial License
 
-Fantasia core is proprietary commercial software. This public repository is a docs-first product surface for review, investor diligence, and evaluation. It is not an open-source release of the desktop app, FVE adapters, COAI publishing workflow, or private automation system.
+Fantasia core is proprietary commercial software owned/licensed through **XXYYZZ Society LLC**. Faith Cheltenham is the creator/founder. This public repository is a docs-first product surface for review, investor diligence, and evaluation. It is not an open-source release of the desktop app, FVE adapters, COAI publishing workflow, or private automation system.
 
-Commercial use requires written permission or a signed license from Faith Cheltenham / TheFAYTH.
+Commercial use requires written permission or a signed license from XXYYZZ Society LLC.
 
 See:
 
