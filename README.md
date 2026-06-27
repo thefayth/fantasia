@@ -108,6 +108,7 @@ Active contact path: [FaithCheltenham.com/contact](https://faithcheltenham.com/c
 Faith offers quote-first local AI workflow setup, FVE website visual operations, GitHub/public surface packaging, AI brand system audits, and protected-file/provenance consulting.
 
 - Request a scoped project: [FaithCheltenham.com/contact](https://faithcheltenham.com/contact/)
+- Portfolio and offers: [Faith AI Systems Portfolio](https://thefayth.github.io/faith-ai-systems-portfolio/)
 - Work with Faith details: [WORK_WITH_FAITH.md](WORK_WITH_FAITH.md)
 - Commercial offers: [docs/COMMERCIAL_OFFERS.md](docs/COMMERCIAL_OFFERS.md)
 - Ask about licensing or partnership: [FaithCheltenham.com/contact](https://faithcheltenham.com/contact/)
