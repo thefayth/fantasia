@@ -64,5 +64,7 @@ Deliverables may include:
 ## Contact
 
 Portfolio and offer overview: [Faith AI Systems Portfolio](https://thefayth.github.io/faith-ai-systems-portfolio/)
+Request scope guide: [Request Scope](https://thefayth.github.io/faith-ai-systems-portfolio/scope-request.html)
+Investor or partner brief: [Investor And Partner Brief](https://thefayth.github.io/faith-ai-systems-portfolio/investor-partner-brief.html)
 
 Request a scoped project: [FaithCheltenham.com/contact](https://faithcheltenham.com/contact/)
